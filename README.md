@@ -236,6 +236,10 @@ Subnets
 VPC
 ```
 
+## Create VPC
+
+![image alt](https://github.com/nileshpatil182004-design/AWS-Secure-VPC-project/blob/74fa5add8637ef6df6bd452468cfdb78902e3735/Create%20VPC.png)
+
 ## 🎯 Learning Outcomes
 
 After completing this project, you should understand:
