@@ -236,10 +236,46 @@ Subnets
 VPC
 ```
 
+## VPC Resource Map
+
+![image alt](https://github.com/nileshpatil182004-design/AWS-Secure-VPC-project/blob/36adf8db39eabc4566a412a28ac7c29a47ffeecf/VPC%20map.png)
+
+
 ## Create VPC
 
 ![image alt](https://github.com/nileshpatil182004-design/AWS-Secure-VPC-project/blob/74fa5add8637ef6df6bd452468cfdb78902e3735/Create%20VPC.png)
 
+## Public Subnet
+
+![image alt](https://github.com/nileshpatil182004-design/AWS-Secure-VPC-project/blob/4234e3f72aac8e9429c6ad204c55abb47e5799bd/Create%20Public%20Subnet.png)
+
+## Private Subnet
+
+![image alt](https://github.com/nileshpatil182004-design/AWS-Secure-VPC-project/blob/4234e3f72aac8e9429c6ad204c55abb47e5799bd/Create%20Private%20Subnet.png)
+
+## Internet Gateway
+
+![image alt](https://github.com/nileshpatil182004-design/AWS-Secure-VPC-project/blob/4234e3f72aac8e9429c6ad204c55abb47e5799bd/Create%20IGW.png)
+
+## Public Route Table
+
+![image alt](https://github.com/nileshpatil182004-design/AWS-Secure-VPC-project/blob/4234e3f72aac8e9429c6ad204c55abb47e5799bd/Public-Route-Table.png)
+
+##  NAT Gateway
+
+![image alt](https://github.com/nileshpatil182004-design/AWS-Secure-VPC-project/blob/36adf8db39eabc4566a412a28ac7c29a47ffeecf/NAT-Gateway.png)
+
+## Private Route Table
+
+![image alt](https://github.com/nileshpatil182004-design/AWS-Secure-VPC-project/blob/36adf8db39eabc4566a412a28ac7c29a47ffeecf/Private-Route-Table.png)
+
+## Public EC2 Instance
+
+![image alt](https://github.com/nileshpatil182004-design/AWS-Secure-VPC-project/blob/36adf8db39eabc4566a412a28ac7c29a47ffeecf/Public-EC2-Instances.png)
+
+## Private EC2 Instance
+
+![image alt](https://github.com/nileshpatil182004-design/AWS-Secure-VPC-project/blob/36adf8db39eabc4566a412a28ac7c29a47ffeecf/Private-EC2-Instance.png)
 ## 🎯 Learning Outcomes
 
 After completing this project, you should understand:
