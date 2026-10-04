@@ -1,4 +1,4 @@
-# 🔐 Secure AWS VPC with Public & Private Subnets
+# 🔐 AWS Project 2 Secure AWS VPC with Public & Private Subnets
 
 A hands-on AWS networking project demonstrating a secure Virtual Private Cloud (VPC) with public and private subnets, EC2 instances, an Internet Gateway, and a NAT Gateway.
 
